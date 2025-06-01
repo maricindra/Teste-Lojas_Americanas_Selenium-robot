@@ -21,6 +21,7 @@ O teste principal (Caso de Teste - Lojas Americanas) executa uma sequência de a
 * **Robot Framework:** Um framework de automação de testes genérico e de código aberto.
 * **SeleniumLibrary:** Biblioteca do Robot Framework que utiliza o Selenium WebDriver para interação com navegadores web.
 * **Python:** Linguagem de programação em que o Robot Framework e suas bibliotecas são construídos.
+* **HTML e CSS** Linguagem de Marcação de pagina e de Estilo para identificar e interagir com elementos web.
 * **Microsoft Edge / MSEdgeDriver:** Navegador e seu driver correspondente para execução dos testes.
 
 ## ⚙️ Configuração e Execução
