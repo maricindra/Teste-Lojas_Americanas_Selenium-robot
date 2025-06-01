@@ -8,7 +8,7 @@ O principal objetivo deste projeto é validar a funcionalidade essencial do site
 
 ## ✨ Visão Geral do Teste
 
-O teste principal (`Caso de Teste - Lojas Americanas`) executa uma sequência de ações que simulam o comportamento de um usuário real no site:
+O teste principal (Caso de Teste - Lojas Americanas) executa uma sequência de ações que simulam o comportamento de um usuário real no site:
 
 1.  **Acessar a Página Inicial:** Navega para a URL principal das Lojas Americanas.
 2.  **Testar Oferta Relâmpago:** Interage com possíveis pop-ups ou elementos de "oferta relâmpago" que possam aparecer ao carregar a página (fechando-os ou validando sua presença, conforme a implementação específica).
