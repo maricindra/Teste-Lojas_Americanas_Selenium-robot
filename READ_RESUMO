@@ -29,14 +29,14 @@ Para rodar este projeto em sua máquina, siga os passos abaixo:
 
 ### Pré-requisitos
 
-* **Python 3.x** instalado.
-* **pip** (gerenciador de pacotes do Python).
-* **Microsoft Edge Browser** instalado.
-* **MSEdgeDriver:** Baixe a versão correspondente ao seu navegador Edge em [Microsoft Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) e adicione-o ao PATH do seu sistema ou coloque-o na mesma pasta do seu projeto.
+* **Python instalado.
+* pip (gerenciador de pacotes do Python).
+* Microsoft Edge Browser** instalado.
+* MSEdgeDriver: Baixe a versão correspondente ao seu navegador Edge em [Microsoft Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) e adicione-o ao PATH do seu sistema ou coloque-o na mesma pasta do seu projeto.
 
 ### Instalação
 
-1.  **Instale o Robot Framework e a SeleniumLibrary:**
-    ```bash
-    pip install robotframework robotframework-seleniumlibrary
-    ```
+1.  Instale o Robot Framework e a SeleniumLibrary:
+    pip install robotframework 
+    pip install robotframework-seleniumlibrary
+
